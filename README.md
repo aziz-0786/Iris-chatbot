@@ -41,6 +41,4 @@ You will also need an API key from OpenAI to access the language models.
 
 - **Application Launch**: Jarvis can open specific applications like FaceTime and Passky. Use commands like " open Chrome" or "Open git" to launch the applications.
 
-- **Reset Chat**: You can reset the conversation history with Jarvis by saying "Reset chat".
-
-- **Quit**: To exit Jarvis, say "Jarvis Quit".
+- **Quit**: To exit Iris, say "Iris Quit".
