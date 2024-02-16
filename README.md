@@ -37,8 +37,8 @@ You will also need an API key from OpenAI to access the language models.
 
 - **Music Playback**: You can open a music file by saying "play song". Make sure to update the `musicPath` variable in the code with the path to your music file.
 
-- **Time**: Jarvis can tell you the current time upon request. Just say "What's the time?" or a similar phrase.
+- **Time**: IRIS can tell you the current time upon request. Just say "What's the time?" or a similar phrase.
 
-- **Application Launch**: Jarvis can open specific applications like FaceTime and Passky. Use commands like " open Chrome" or "Open git" to launch the applications.
+- **Application Launch**: IRIS can open specific applications like FaceTime and Passky. Use commands like " open Chrome" or "Open git" to launch the applications.
 
 - **Quit**: To exit Iris, say "Iris Quit".
