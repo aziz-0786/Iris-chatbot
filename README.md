@@ -33,7 +33,7 @@ You will also need an API key from OpenAI to access the language models.
 
 - **AI Prompt**: You can provide a prompt to the AI model using the "Using artificial intelligence" command. It generates a response based on the prompt and saves the response in a text file.
 
-- **Web Browsing**: Jarvis can open various websites such as YouTube, Wikipedia, and Google. Simply say "Open YouTube" or "Open Wikipedia" to launch the respective website.
+- **Web Browsing**: IRIS can open various websites such as YouTube, Wikipedia, and Google. Simply say "Open YouTube" or "Open Wikipedia" to launch the respective website.
 
 - **Music Playback**: You can open a music file by saying "play song". Make sure to update the `musicPath` variable in the code with the path to your music file.
 
